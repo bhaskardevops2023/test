@@ -18,8 +18,8 @@ git push origin main
 
 
 
- git config --global user.email "me.bhaskar2023@gmail.com"
- git config --global user.name "bhaskardevops2023"
+ git config --global user.email "xxxxxx"
+ git config --global user.name "xxxxx"
 
 
 
